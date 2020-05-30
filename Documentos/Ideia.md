@@ -28,7 +28,7 @@
    * Também podem ser trocados por cosméticos para o PouPet (Loja Virtual)
    * O usuário pode guardar estes pontos como forma de "Pontos Emergenciais"
       * Quando ele estiver em uma situação mais crítica estes pontos são disponibilizados para ele pagar contas mais urgentes, etc.
-   * Os PopCoins podem ser trocados por planos de taxas bancárias mais baratas
+   * Os PopCoins podem ser trocados por planos de taxas bancárias mais baratas, porém em visão de estimular o cliente a estar em constante atividade com o aplicativo o usuário em vez de simplesmente trocar os pontos(PopCoin) por taxas menores ele tem uma espécie de aluguel, o qual o estimula a sempre estar usando o Poupet para conseguir mais moedas. 
 * Cards Especializados
    * São planos de investimentos e gestão do dinheiro para diferentes grupos de pessoas
       * Ex: Plano Estudante, Plano Aposentadoria, etc.
