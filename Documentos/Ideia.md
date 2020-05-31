@@ -1,7 +1,8 @@
 ***
 # Ideia
 * Aba de aprendizado
-   * Possui vídeos, artigos e outros conteúdos que podem ensinar o cliente a entender a organização financeira de forma mais eficiente;
+   * Possui artigos que podem ensinar o cliente a entender a organização financeira de forma mais eficiente;
+   * Cada artigo possui módulos sobre diferentes conteúdos, e para testar seu conhecimento, o usuário poderia realizar um quiz sobre cada módulo para consolidar o conhecimento;
 * Gameficação:
    * Sistema de fases
       * São baseadas nos dias do mês
@@ -24,7 +25,7 @@
    * Dentro de cada objetivo, outros usuários podem dar "likes" neste objetivo, para torná-lo mais visível para todo mundo
    * Outros usuários podem contribuir para um objetivo de outra pessoa (Doações)
    * Os usuários que receberem doações para ajudar em suas metas tem que fornecer um feedback sobre o andamento do "projeto"
-   * Caso os apoiadores não gostarem de como o projeto está sendo desenvolvido ou o dono da meta não manter um feedback, os apoiadores podem dar um "Dislike", o qual faz com que eles recebam o valor de suas "doações" de volta, desta forma, forçando o dono da meta a usar o dinheiro recebido de forma justa
+   * Caso os apoiadores não gostarem de como o projeto está sendo desenvolvido ou o dono da meta não manter um feedback, os apoiadores podem dar um "Dislike" (disponível apenas para os contribuintes), o qual faz com que eles recebam o valor de suas "doações" de volta, desta forma, forçando o dono da meta a usar o dinheiro recebido de forma justa
 * Sistema de pontos
    * Nome = PopCoin
    * Presente no sistema de ranqueamento e na gameficação
