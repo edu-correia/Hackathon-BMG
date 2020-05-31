@@ -36,17 +36,17 @@ Foi pensando neles, que chegamos ao "Me Poupe".
       * ao se concluir a meta e caso o usuário tenha um patrocínio, ele vai ficar com um dinheiro sobrando graças ao cupom, e para auxilia-lo este dinheiro seria investido no SuperPoupe do BMG;
 
 * Sistema de Ranqueamento:
-   * O sistema de ranqueamento se organiza de acordo com a educação financeira do usuário, ou seja, mesmo que o usuário não seja o mais rico, caso ele se organize financeiramente melhor ele acaba subindo no Ranking, isso acaba incentivando os usuários a competirem entre si para terem melhores práticas financeiras;
+   * O sistema de ranqueamento se organiza de acordo com a educação financeira do usuário, isso acaba incentivando os usuários a competirem entre si para terem melhores práticas financeiras;
 
 * PouPet:
    * O PouPet é um bichinho virtual que sua saúde depende dos bons hábitos financeiros do usuário;
-   * Dependendo de sua saúde o usuário acaba ganhando PopCoins, que são moedas virtuais que podem ser trocadas por cosméticos para seu PouPet, ou trocadas mensalmente por descontos nas tarifas do banco, o que serve com fonte de estímulo para o usuário se dedicar a sua educação financeira;
+   * Dependendo de sua saúde o usuário acaba ganhando PopCoins, que são moedas virtuais que podem ser trocadas por cosméticos para seu PouPet
 
 * Sitema de fases:
-   * Neste sistema de fases, os dias do mês acabam se tornando fases, e cada um tem suas missões, como "Pagar a conta de água", etc.
-
-* Missões:
+   * Neste sistema de fases, os dias do mês acabam se tornando fases, e cada um tem suas missões
    * O cumprimento destas missões gera PopCoins para o usuário.
+
+* As PopCoins também podem ser trocadas mensalmente por descontos nas tarifas do banco
 
 * Na aba de aprendizado temos vários artigos sobre diferentes conteúdos, em cada um o usuário é apresentado ao conteúdo e no final ele faz um quiz que determina o aproveitamento que o usuário obteve.
 
