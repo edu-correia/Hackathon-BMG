@@ -21,14 +21,14 @@ Como poderíamos resolver estes problemas?
 Foi pensando neles, que chegamos ao "Me Poupe".
 ***
 ## Parte Figma
-* Primeiramente, temos um wallpaper interativo, o qual mostra algumas informações sobre o perfil do usuário, desta forma tornando o acesso a essas informações mais prático para ele.
+* Primeiramente, temos um wallpaper interativo, o qual mostra algumas informações sobre o perfil do usuário, desta forma tornando o acesso a elas mais prático para ele.
    
-* Ao se registrar uma nova conta, o usuário preenche seus dados normalmente e no final ele pode escolher alguns planos pré-definidos
-   * Como o universitário;
+* Ao se registrar uma nova conta, o usuário preenche seus dados normalmente, e no final ele pode escolher alguns planos pré-definidos
+   * Como o plano universitário, por exemplo;
    * Estes planos podem ser posteriormente alterados conforme o desejo do usuário nesta aba de "Planos"
-
+Espera 2s
 * Metas
-   * Nesta aba o usuário pode ver e navegar em suas metas, podendo criar novas também.
+   * Nesta aba o usuário pode ver e navegar em suas metas, (Espera 3s) podendo criar novas também.
    * No final da criação ele pode escolher entre:
       * tornar sua meta pública, para que outras pessoas consigam vê-la;
       * permitir a ajuda de outros usuários, ou seja, ser auxiliado no processo de atingir sua meta;
