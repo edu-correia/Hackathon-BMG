@@ -18,15 +18,14 @@ Isso ocorre por diversos problemas, dentre eles:
 Como poderíamos resolver estes problemas?
 
 * Início da explicação:
-Foi pensando neles, que chegamos ao "Me Poupe", que é o conjunto de diversas funcionalidades que tornariam a experiência do usuário no app meu_BMG mais interativa e prática;
+Foi pensando neles, que chegamos ao "Me Poupe".
 ***
 ## Parte Figma
-* Primeiramente, temos um wallpaper interativo, o qual mostra algumas informações sobre o perfil do usuário, desta forma tornando o acesso a essas informações mais prático para o usuário.
+* Primeiramente, temos um wallpaper interativo, o qual mostra algumas informações sobre o perfil do usuário, desta forma tornando o acesso a essas informações mais prático para ele.
    
 * Ao se registrar uma nova conta, o usuário preenche seus dados normalmente e no final ele pode escolher alguns planos pré-definidos
    * Como o universitário;
    * Estes planos podem ser posteriormente alterados conforme o desejo do usuário nesta aba de "Planos"
-   * <Explicação sistema de personalização dos planos>
 
 * Metas
    * Nesta aba o usuário pode ver e navegar em suas metas, podendo criar novas também.
@@ -36,11 +35,19 @@ Foi pensando neles, que chegamos ao "Me Poupe", que é o conjunto de diversas fu
       * e até mesmo, escolher um patrocínio de uma loja parceira que esteja relacionada com sua meta, conseguindo um cupom de desconto na compra;
       * ao se concluir a meta e caso o usuário tenha um patrocínio, ele vai ficar com um dinheiro sobrando graças ao cupom, e para auxilia-lo este dinheiro seria investido no SuperPoupe do BMG;
 
+* Sistema de Ranqueamento:
+   * O sistema de ranqueamento se organiza de acordo com a educação financeira do usuário, ou seja, mesmo que o usuário não seja o mais rico, caso ele se organize financeiramente melhor ele acaba subindo no Ranking, isso acaba incentivando os usuários a competirem entre si para terem melhores práticas financeiras;
+
 * PouPet:
-   * O PouPet é um bichinho virtual...
+   * O PouPet é um bichinho virtual que sua saúde depende dos bons hábitos financeiros do usuário;
+   * Dependendo de sua saúde o usuário acaba ganhando PopCoins, que são moedas virtuais que podem ser trocadas por cosméticos para seu PouPet, ou trocadas mensalmente por descontos nas tarifas do banco, o que serve com fonte de estímulo para o usuário se dedicar a sua educação financeira;
 
-* Sistema de Ranqueamento
+* Sitema de fases:
+   * Neste sistema de fases, os dias do mês acabam se tornando fases, e cada um tem suas missões, como "Pagar a conta de água", etc.
 
-* Missões 
+* Missões:
+   * O cumprimento destas missões gera PopCoins para o usuário.
+
+* Na aba de aprendizado temos vários artigos sobre diferentes conteúdos, em cada um o usuário é apresentado ao conteúdo e no final ele faz um quiz que determina o aproveitamento que o usuário obteve.
 
 ***
