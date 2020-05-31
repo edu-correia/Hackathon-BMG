@@ -3,10 +3,10 @@
 ***
 ## Parte Powtoon
 * Contextualização:
-Atualmente no Brasil, segundo o site CNDL, 45% dos brasileiros admitem não ter um controle financeiro, e dos que tem este controle apenas 9% se utiliza de aplicativos para essa gestão.
+Segundo o site CNDL, 45% dos brasileiros admitem não ter um controle financeiro, e dos que tem este controle apenas 9% se utiliza de aplicativos para essa gestão.
 
 * Problemas atuais:
-Isso ocorre por diversos fatores que prejudicam a experiência dos usuários nos aplicativos atualmente disponíveis, dentre eles:
+Isso ocorre por diversos problemas, dentre eles:
    * O esquecimento que os usuários enfrentam para manter uma atividade frequente no app(1);
    * A falta de entendimento sobre educação financeira e pelos serviços oferecidos pelo banco(2);
    * A pressão social sofrida por pessoas próximas para manter um padrão consumista(3);
@@ -21,24 +21,26 @@ Como poderíamos resolver estes problemas?
 Foi pensando neles, que chegamos ao "Me Poupe", que é o conjunto de diversas funcionalidades que tornariam a experiência do usuário no app meu_BMG mais interativa e prática;
 ***
 ## Parte Figma
-* Um wallpaper interativo(1):
-   * Explicação
+* Primeiramente, temos um wallpaper interativo, o qual mostra algumas informações sobre o perfil do usuário, desta forma tornando o acesso a essas informações mais prático para o usuário.
+   
+* Ao se registrar uma nova conta, o usuário preenche seus dados normalmente e no final ele pode escolher alguns planos pré-definidos
+   * Como o universitário;
+   * Estes planos podem ser posteriormente alterados conforme o desejo do usuário nesta aba de "Planos"
+   * <Explicação sistema de personalização dos planos>
 
-* Uma aba de aprendizado(2):
-   * Explicação
+* Metas
+   * Nesta aba o usuário pode ver e navegar em suas metas, podendo criar novas também.
+   * No final da criação ele pode escolher entre:
+      * tornar sua meta pública, para que outras pessoas consigam vê-la;
+      * permitir a ajuda de outros usuários, ou seja, ser auxiliado no processo de atingir sua meta;
+      * e até mesmo, escolher um patrocínio de uma loja parceira que esteja relacionada com sua meta, conseguindo um cupom de desconto na compra;
+      * ao se concluir a meta e caso o usuário tenha um patrocínio, ele vai ficar com um dinheiro sobrando graças ao cupom, e para auxilia-lo este dinheiro seria investido no SuperPoupe do BMG;
 
-* Um sistema de Ranqueamento(3):
-   * Explicação
+* PouPet:
+   * O PouPet é um bichinho virtual...
 
-* Uma gameficação do app(4), a qual envolve:
-   * Um bichinho virtual, o PouPet:
-      * 
-   * Um sistema de fases:
-      * 
+* Sistema de Ranqueamento
 
-* Um sistema de objetivos(5):
-   * Explicação
+* Missões 
 
-* E por fim, um sistema que prevê as consequências diretas de uma compra(6):
-   * Explicação
 ***
