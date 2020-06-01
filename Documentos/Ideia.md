@@ -21,7 +21,7 @@
 * Sistema de Metas
    * O usuário pode manter um controle sobre seus objetivos individualmente
    * Ao criar a meta, o usuário pode escolher dentre as lojas parceiras, a que ele gostaria para receber um cupom de desconto nesta loja ao terminar de concluir sua meta
-   * Como ele vai receber um cupom de desconto, vai acabar sobrando um dinheiro acumulado e para ajudar o usuário, este dinheiro seria investido no SuperPoupe
+   * Como ele vai receber um cupom de desconto, vai acabar sobrando um dinheiro acumulado e para ajudar o usuário, este dinheiro seria investido no SuperPoup.
    * Dentro de cada objetivo, outros usuários podem dar "likes" neste objetivo, para torná-lo mais visível para todo mundo
    * Outros usuários podem contribuir para um objetivo de outra pessoa (Doações)
    * Os usuários que receberem doações para ajudar em suas metas tem que fornecer um feedback sobre o andamento do "projeto"
