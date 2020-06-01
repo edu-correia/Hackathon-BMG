@@ -3,7 +3,7 @@
 * Aba de aprendizado
    * Possui artigos que podem ensinar o cliente a entender a organização financeira de forma mais eficiente;
    * Cada artigo possui módulos sobre diferentes conteúdos, e para testar seu conhecimento, o usuário poderia realizar um quiz sobre cada módulo para consolidar o conhecimento;
-* Gameficação:
+* Gamificação:
    * Sistema de fases
       * São baseadas nos dias do mês
       * As contas viram missões, que quando realizadas geram pontos (PopCoin) para o cliente
