@@ -2,28 +2,25 @@
 # Objetivos
 ***
 ## Protótipo (Duspa, Rebeca, Gianni):
-* Aba de aprendizado [ ] (1)
-* Wallpaper [ ] (2)
-* Game [ ] (3)
-* Tela principal [ ] (4)
-* Tela de informações pessoais [ ] (5)
-* Tela de gastos e ganhos [ ] (6)
-* ...
+* Aba de aprendizado [x] (1)
+* Wallpaper [x] (2)
+* Game [x] (3)
+* Tela principal [x] (4)
+* Tela de informações pessoais [x] (5)
 ***
 ## Vídeo (Rebeca, Gustavo, Joba):
-* Slide [ ] (1)
-* Roteiro [ ] (2)
-* Edição e gravação [ ] (3)
+* Slide [x] (1)
+* Roteiro [x] (2)
+* Edição e gravação [x] (3)
 ***
 ## Game (Gianni):
 * Desenhar:
-    * Background dos níveis [ ] (1)
-    * Background do personagem [ ] (5)
-    * Personagem [ ] (2)
-    * Variantes do PouPet [ ] (3)
-    * Cosméticos do PouPet [ ] (4)
+    * Background dos níveis [x] (1)
+    * Background do personagem [x] (5)
+    * Personagem [x] (2)
+    * Variantes do PouPet [x] (3)
+    * Cosméticos do PouPet [x] (4)
 ***
 ## Geral (Gustavo e Duspa)
-* Slide da entrega [ ] (1)
-* Definir o público alvo [ ] (2)
+* Slide da entrega [x] (1)
 ***
