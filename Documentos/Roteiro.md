@@ -33,7 +33,7 @@ Espera 2s
       * tornar sua meta pública, para que outras pessoas consigam vê-la;
       * permitir a ajuda de outros usuários, ou seja, ser auxiliado no processo de atingir sua meta;
       * e até mesmo, escolher um patrocínio de uma loja parceira que esteja relacionada com sua meta, conseguindo um cupom de desconto na compra;
-      * ao se concluir a meta e caso o usuário tenha um patrocínio, ele vai ficar com um dinheiro sobrando graças ao cupom, e para auxilia-lo este dinheiro seria investido no SuperPoupe do BMG;
+      * ao se concluir a meta e caso o usuário tenha um patrocínio, ele vai ficar com um dinheiro sobrando graças ao cupom, e para auxilia-lo este dinheiro seria investido no SuperPoup do BMG;
 
 * Sistema de Ranqueamento:
    * O sistema de ranqueamento se organiza de acordo com a educação financeira do usuário, isso acaba incentivando os usuários a competirem entre si para terem melhores práticas financeiras;
