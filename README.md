@@ -1,4 +1,4 @@
-# [HACKATHON BMG](hackathonbmg.com.br)
+<h1 align="center"><a href="https://hackathonbmg.com.br">HACKATHON BMG</a></h1>
 
 ## Protótipo:
 * [Protótipo](https://www.figma.com/proto/m5tD09l3bQstFH0AIbdsAo/Hackathon-BMG?node-id=4%3A11&scaling=scale-down&hotspot-hints=0)
